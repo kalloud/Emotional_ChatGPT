@@ -1,6 +1,8 @@
 # Emotional ChatGPT
 
-This repository contains the code files I used in my master thesis project entitled "Improving ChatGPT's Emotional Intelligence Through Prompt Engineering" and published as a conference paper. The model details and the architecture used in emotion classification and in emotion injection are described in our paper:
+This repository contains the code files I used in my master thesis project entitled "Improving ChatGPT's Emotional Intelligence Through Prompt Engineering". 
+The model details and the architecture used in emotion classification and in emotion injection are described in our paper:
+
 https://aclanthology.org/2023.ranlp-1.18/
 
 The master thesis contains two parts: an emotion classification part (see Emotion Classification folder) and an emotion injection part (the root folder).
